@@ -1,4 +1,6 @@
 # YZM2031_LAB
 
--**Yildiz Technical University-Data Structures and Algorithms(YZM2031)**
--**Tuğana Öykü Yıldız-24018020**
+**Yildiz Technical University — Artificial Intelligence and Data Engineering**  
+**Course:** Data Structures and Algorithms (YZM2031)  
+**Student:** Tuğana Öykü Yıldız  
+**Student ID:** 24018020 
